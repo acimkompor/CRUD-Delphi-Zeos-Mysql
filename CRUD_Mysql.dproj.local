@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/13 00:15:08.000.987,=D:\Project Delphi\Unit1.pas</Transaction>
+    <Transaction>2023/04/13 00:16:29.000.232,D:\Project Delphi\Tutorial\CRUD MySql\uFrmDepan.pas=D:\Project Delphi\Unit1.pas</Transaction>
+    <Transaction>2023/04/13 00:16:29.000.232,D:\Project Delphi\Tutorial\CRUD MySql\uFrmDepan.dfm=D:\Project Delphi\Unit1.dfm</Transaction>
+    <Transaction>2023/04/13 00:16:39.000.073,D:\Project Delphi\Tutorial\CRUD MySql\CRUD_Mysql.dproj=D:\Project Delphi\Project1.dproj</Transaction>
+    <Transaction>2023/04/17 23:52:55.000.845,=D:\Project Delphi\Tutorial\CRUD MySql\Unit1.pas</Transaction>
+    <Transaction>2023/04/17 23:53:14.000.123,D:\Project Delphi\Tutorial\CRUD MySql\Unit1.pas=D:\Project Delphi\Tutorial\CRUD MySql\uDm.pas</Transaction>
+    <Transaction>2023/04/17 23:53:14.000.123,D:\Project Delphi\Tutorial\CRUD MySql\Unit1.dfm=D:\Project Delphi\Tutorial\CRUD MySql\uDm.dfm</Transaction>
+    <Transaction>2023/04/26 22:02:59.000.294,D:\Project Delphi\Tutorial\CRUD MySql\uDm.pas=</Transaction>
+    <Transaction>2023/04/26 22:41:42.000.965,=D:\Project Delphi\Tutorial\CRUD MySql\Unit1.pas</Transaction>
+    <Transaction>2023/04/26 22:42:01.000.729,D:\Project Delphi\Tutorial\CRUD MySql\uDM.pas=D:\Project Delphi\Tutorial\CRUD MySql\Unit1.pas</Transaction>
+    <Transaction>2023/04/26 22:42:01.000.729,D:\Project Delphi\Tutorial\CRUD MySql\uDM.dfm=D:\Project Delphi\Tutorial\CRUD MySql\Unit1.dfm</Transaction>
+    <Transaction>2023/04/26 23:55:40.000.841,D:\Project Delphi\Tutorial\CRUD MySql\uDM.pas=</Transaction>
+    <Transaction>2023/04/27 00:00:25.000.144,=D:\Project Delphi\Tutorial\CRUD MySql\Unit1.pas</Transaction>
+    <Transaction>2023/04/27 00:00:36.000.013,D:\Project Delphi\Tutorial\CRUD MySql\uDM.dfm=D:\Project Delphi\Tutorial\CRUD MySql\Unit1.dfm</Transaction>
+    <Transaction>2023/04/27 00:00:36.000.013,D:\Project Delphi\Tutorial\CRUD MySql\uDM.pas=D:\Project Delphi\Tutorial\CRUD MySql\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
