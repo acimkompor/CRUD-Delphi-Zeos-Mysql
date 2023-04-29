@@ -99,6 +99,7 @@ object frmDepan: TfrmDepan
       Height = 32
       Caption = 'Edit'
       TabOrder = 4
+      OnClick = btnEditClick
     end
     object btnHapus: TButton
       Left = 618
@@ -107,6 +108,7 @@ object frmDepan: TfrmDepan
       Height = 32
       Caption = 'Hapus'
       TabOrder = 5
+      OnClick = btnHapusClick
     end
   end
   object Grid: TAdvStringGrid
@@ -116,6 +118,7 @@ object frmDepan: TfrmDepan
     Height = 328
     Cursor = crDefault
     Color = clWhite
+    ColCount = 6
     DrawingStyle = gdsClassic
     FixedCols = 0
     Options = [goVertLine, goHorzLine, goRangeSelect, goFixedRowDefAlign]
@@ -124,6 +127,7 @@ object frmDepan: TfrmDepan
     GridLineColor = 15987699
     GridFixedLineColor = 15987699
     HoverRowCells = [hcNormal, hcSelected]
+    OnDblClickCell = GridDblClickCell
     ActiveCellFont.Charset = DEFAULT_CHARSET
     ActiveCellFont.Color = clWindowText
     ActiveCellFont.Height = -11
@@ -134,7 +138,8 @@ object frmDepan: TfrmDepan
       'NAMA'
       'TELEPON'
       'JENIS KELAMIN'
-      'TGL DIBUAT')
+      'TGL DIBUAT'
+      'ID')
     ControlLook.FixedGradientHoverFrom = clGray
     ControlLook.FixedGradientHoverTo = clWhite
     ControlLook.FixedGradientDownFrom = clGray
@@ -228,6 +233,7 @@ object frmDepan: TfrmDepan
       161
       164
       164
-      172)
+      172
+      64)
   end
 end
